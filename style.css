@@ -1,0 +1,21 @@
+
+*{
+    background-image: url("images/man.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.para1{
+    margin: 50px;
+    padding: 10px;
+    background-color: darkolivegreen;
+    color: deeppink;
+}
+header{
+    background-color: blanchedalmond;
+}
+header ul a li{
+display: inline;
+text-decoration: none;
+
+}
